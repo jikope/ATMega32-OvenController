@@ -1,0 +1,4 @@
+#+TITLE: ATMega32 OvenController
+#+OPTIONS: toc:nil
+
+Simple oven controller using ATMega32
