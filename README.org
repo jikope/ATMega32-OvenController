@@ -2,3 +2,4 @@
 #+OPTIONS: toc:nil
 
 Simple oven controller using ATMega32
+[[Demo][https://www.youtube.com/watch?v=HtAwujssmbY]]
